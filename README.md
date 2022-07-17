@@ -1,5 +1,39 @@
-# FCC Test Suite Template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# My First Code Review
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+> Description : 
+                In this project I created a simple Html page and practiced my skills of code reviewing.
+
+## CODE REVIEW
+
+- [Link to my reviewing skills](https://github.com/ABDULALI3468/My-first-CODE-REVIEW/pull/1#pullrequestreview-915942909)
+
+
+## Built With
+
+- Major languages (Html)
+
+## Authors
+
+👤 **ABDUL ALI**
+
+- GitHub: [@ABDULALI3468](https://github.com/ABDULALI3468)
+- Twitter: [@mrabdul_ali](https://twitter.com/mrabdul_ali)
+- LinkedIn: [ABDUL ALI](https://www.linkedin.com/in/abdul-ali-5400bb216/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the mail "mrabdulali2003@gmail.com"
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+We admire your help and support and your views also!
+
+## Acknowledgments
+
+- Hats off to Roberto for their prestigious help , time and support!
